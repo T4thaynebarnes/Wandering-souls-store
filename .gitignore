@@ -1,0 +1,2 @@
+server/
+# this stops git from tracking these files/directories from being committed to the repository
